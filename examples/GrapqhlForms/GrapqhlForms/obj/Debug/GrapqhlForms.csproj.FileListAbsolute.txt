@@ -1,0 +1,9 @@
+c:\users\julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\bin\Debug\GrapqhlForms.exe.config
+C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\bin\Debug\GrapqhlForms.exe
+C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\bin\Debug\GrapqhlForms.pdb
+C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.csprojResolveAssemblyReference.cache
+C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.Form1.resources
+C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.Properties.Resources.resources
+C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.csproj.GenerateResource.Cache
+C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.exe
+C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.pdb
