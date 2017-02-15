@@ -7,3 +7,12 @@ C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\
 C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.csproj.GenerateResource.Cache
 C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.exe
 C:\Users\Julian\documents\visual studio 2015\Projects\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.pdb
+E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\bin\Debug\GrapqhlForms.exe.config
+E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.exe
+E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.pdb
+E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\bin\Debug\GrapqhlForms.exe
+E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\bin\Debug\GrapqhlForms.pdb
+E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.csprojResolveAssemblyReference.cache
+E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.Form1.resources
+E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.Properties.Resources.resources
+E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.csproj.GenerateResource.Cache
