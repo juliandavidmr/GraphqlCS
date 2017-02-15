@@ -16,3 +16,12 @@ E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\Grapqh
 E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.Form1.resources
 E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.Properties.Resources.resources
 E:\JorgeF\Escritorio\Nueva carpeta\GraphqlCS-master\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.csproj.GenerateResource.Cache
+E:\JorgeF\Documentos\visual studio 2015\Projects\GraphqlCS\examples\GrapqhlForms\GrapqhlForms\bin\Debug\GrapqhlForms.exe.config
+E:\JorgeF\Documentos\visual studio 2015\Projects\GraphqlCS\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.exe
+E:\JorgeF\Documentos\visual studio 2015\Projects\GraphqlCS\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.pdb
+E:\JorgeF\Documentos\visual studio 2015\Projects\GraphqlCS\examples\GrapqhlForms\GrapqhlForms\bin\Debug\GrapqhlForms.exe
+E:\JorgeF\Documentos\visual studio 2015\Projects\GraphqlCS\examples\GrapqhlForms\GrapqhlForms\bin\Debug\GrapqhlForms.pdb
+E:\JorgeF\Documentos\visual studio 2015\Projects\GraphqlCS\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.csprojResolveAssemblyReference.cache
+E:\JorgeF\Documentos\visual studio 2015\Projects\GraphqlCS\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.Form1.resources
+E:\JorgeF\Documentos\visual studio 2015\Projects\GraphqlCS\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.Properties.Resources.resources
+E:\JorgeF\Documentos\visual studio 2015\Projects\GraphqlCS\examples\GrapqhlForms\GrapqhlForms\obj\Debug\GrapqhlForms.csproj.GenerateResource.Cache
